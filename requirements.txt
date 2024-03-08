@@ -1,0 +1,4 @@
+Pyrogram==2.0.102
+python-dotenv==1.0.0
+googletrans==3.1.0a0
+art==6.1
